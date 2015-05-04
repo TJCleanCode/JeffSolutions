@@ -1,9 +1,9 @@
 # Jeff's Solutions
 ***
-[TOC]
 ## Plan
 ### Week 1 
 > Date:&nbsp;&nbsp;&nbsp; ***May 4, 2015 - May 10, 2015***
+
 |ID       |  Name                      |   AC |
 |:------- |--------------------------: |:-----:|
 |165|	[Compare Version Numbers][165]|15.0%|
