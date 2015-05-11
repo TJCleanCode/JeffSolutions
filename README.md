@@ -22,6 +22,28 @@
 [7]:https://leetcode.com/problems/reverse-integer/
 [8]:https://leetcode.com/problems/string-to-integer-atoi/
 
+### Week 2
+> Date:&nbsp;&nbsp;&nbsp; ***May 11, 2015 - May 17, 2015***
+
+|ID       |  Name                      | 
+|:------- |--------------------------: |
+|9|	[Palindrome Number][9]|
+|13|	[Roman to Integer ][13]|	
+|14|	[Longest Common Prefix][14]|		
+|19|	[Remove Nth Node From End of List][19]|
+|20	|[Valid Parentheses][20]|
+|21	|[Merge Two Sorted Lists][21]|
+|26	|[Remove Duplicates from Sorted Array][26]|
+
+[9]:https://leetcode.com/problems/palindrome-number/
+[13]:https://leetcode.com/problems/roman-to-integer/
+[14]:https://leetcode.com/problems/longest-common-prefix/
+[19]:https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+[20]:https://leetcode.com/problems/valid-parentheses/
+[21]:https://leetcode.com/problems/merge-two-sorted-lists/
+[26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+ 
+ 
  	6 	ZigZag Conversion 	22.2% 	Easy
 	7 	Reverse Integer 	26.3% 	Easy
 	8 	String to Integer (atoi) 	13.2% 	Easy
