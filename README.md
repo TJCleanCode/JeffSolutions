@@ -51,8 +51,8 @@
 |:-------|:------- |--------------------------: |
 |**MON** |27 	   |[Remove Element][27]        |
 |**TUE** |28 	   |[Implement strStr()][28] 	|
-|**WED** |36 	   |[Valid Sudoku 	][56] 	|
-|**THU** |38 	   |[Count and Say 	][57] 	|
+|**WED** |36 	   |[Valid Sudoku 	][36] 	|
+|**THU** |38 	   |[Count and Say 	][38] 	|
 |**FRI** |58 	   |[Length of Last Word][58] 	|	
 |**SAT** |66 	   |[Plus One 	        ][66]   |
 |**SUN** |67 	   |[Add Binary 	][67] 	|
