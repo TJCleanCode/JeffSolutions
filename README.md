@@ -43,7 +43,29 @@
 [21]:https://leetcode.com/problems/merge-two-sorted-lists/
 [26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  
- 
+
+### Week 2
+> Date:&nbsp;&nbsp;&nbsp; ***May 18, 2015 - May 25, 2015***
+
+|Day     |ID       |  Name                      | 
+|:-------|:------- |--------------------------: |
+|9|	[Palindrome Number][9]|
+
+|**MON** |27 	   |[Remove Element][27]        |
+|**TUE** |28 	   |[Implement strStr()][28] 	|
+|**WED** |36 	   |[Valid Sudoku 	][56] 	|
+|**THU** |38 	   |[Count and Say 	][57] 	|
+|**FRI** |58 	   |[Length of Last Word][58] 	|	
+|**SAT** |66 	   |[Plus One 	        ][66]   |
+|**SUN** |67 	   |[Add Binary 	][67] 	|
+
+[27]:https://leetcode.com/problems/remove-element/
+[28]:https://leetcode.com/problems/implement-strstr/
+[36]:https://leetcode.com/problems/valid-sudoku/
+[38]:https://leetcode.com/problems/count-and-say/
+[58]:https://leetcode.com/problems/length-of-last-word/
+[66]:https://leetcode.com/problems/plus-one/
+[67]:https://leetcode.com/problems/add-binary/
  	6 	ZigZag Conversion 	22.2% 	Easy
 	7 	Reverse Integer 	26.3% 	Easy
 	8 	String to Integer (atoi) 	13.2% 	Easy
