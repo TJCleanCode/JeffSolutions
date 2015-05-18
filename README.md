@@ -49,8 +49,6 @@
 
 |Day     |ID       |  Name                      | 
 |:-------|:------- |--------------------------: |
-|9|	[Palindrome Number][9]|
-
 |**MON** |27 	   |[Remove Element][27]        |
 |**TUE** |28 	   |[Implement strStr()][28] 	|
 |**WED** |36 	   |[Valid Sudoku 	][56] 	|
